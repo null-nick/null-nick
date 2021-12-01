@@ -1,10 +1,8 @@
-#Profile 
-
 ### 👋🏻 Hi to everyone!
 
 » 🚧 I am currently working on some projects, [MusicProducer](https://t.me/MusicProducerNews) and [CazzeggioBot](https://t.me/CazzeggioBotNews)
 
-» 💬 You _can't_ contact me [here](https://t.me/godspro)
+» 💬 _You_ can only contact me [here](https://t.me/TalktoNickBot) 
 
 ## GitHub Stats
 <a href="https://github.com/null-nick/null-nick">
